@@ -1,4 +1,4 @@
 #Ignore mode modules
 node_modules
-
+.env
 .DS_Store
